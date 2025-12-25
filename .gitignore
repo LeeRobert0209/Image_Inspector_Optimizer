@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 办公/日志文件
+*.xlsx
+*.xls
+*.log
+
+# 输出文件夹
+*Optimized/
+*Report/
+
+# 虚拟环境与配置
+.venv/
+venv/
+.vscode/
