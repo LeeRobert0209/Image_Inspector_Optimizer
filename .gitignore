@@ -15,3 +15,6 @@ __pycache__/
 .venv/
 venv/
 .vscode/
+
+# Config
+config.ini
